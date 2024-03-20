@@ -1,0 +1,35 @@
+Privacy Policy for Awesome Flashlight
+
+1. Introduction
+
+Awesome Flashlight is a flashlight application developed by Nir Moshe. This Privacy Policy describes how Awesome Flashlight collects, uses, and shares information when you use our mobile application.
+
+2. Information We Collect
+
+Usage Data: We may collect information about how you use the Awesome Flashlight app, such as the features you interact with and the settings you choose.
+Device Information: We may collect device-specific information such as your device model, operating system version, unique device identifiers, and mobile network information.
+Crash Data: In the event of a crash or error, we may collect information related to the crash, including device information and crash logs.
+3. How We Use Your Information
+
+To Provide and Improve the Service: We use the information collected to provide and maintain the Awesome Flashlight app, as well as to improve our services and develop new features.
+Analytics: We may use third-party analytics tools to analyze usage patterns and trends in order to better understand how users interact with our app.
+Customer Support: We may use the information to respond to your inquiries and provide customer support.
+4. Data Sharing and Disclosure
+
+Service Providers: We may share information with third-party service providers who assist us in operating the Awesome Flashlight app or provide services on our behalf.
+Legal Compliance: We may disclose information if required to do so by law or in response to valid legal requests.
+5. Security
+
+We take reasonable measures to protect the information collected from unauthorized access, disclosure, alteration, or destruction.
+
+6. Children's Privacy
+
+Awesome Flashlight is not intended for use by children under the age of 13. We do not knowingly collect personal information from children under 13 years of age.
+
+7. Changes to This Privacy Policy
+
+We may update our Privacy Policy from time to time. Any changes will be reflected in the updated Privacy Policy, and the "Last Updated" date will be revised accordingly.
+
+8. Contact Us
+
+If you have any questions or concerns about our Privacy Policy or our data practices, please contact us at nir.moshe.nm@gmail.com .
